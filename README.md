@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rajkhowa-j
+- 👀 I’m interested in Computer science & Mathematics
+- 🌱 I'm currently a master's student at Tezpur University
+- 📫 jugantarajkhowa87@gmail.com
