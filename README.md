@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @rajkhowa-j
+- 👋 Hi, I’m Juganta
 - 👀 I’m interested in Computer science & Mathematics
-- 🌱 I'm currently a master's student at Tezpur University
+- 🌱 I'm currently a PhD student at Tezpur University
